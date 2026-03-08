@@ -4,6 +4,7 @@
 
 sudo apt update -y
 sudo apt install -y zstd
+sudo apt install curl -y
 sudo apt upgrade
 
 sudo apt autoremove
